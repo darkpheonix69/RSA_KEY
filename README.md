@@ -1,4 +1,4 @@
-# RSAP Public Key Analysis Report
+# RSA Public Key Analysis Report
 
 Prepared October 7, 2026. Subject: `rsa_pubkey.bin` and three PEM files derived from it.
 
